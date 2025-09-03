@@ -8,6 +8,7 @@ Prepare the CIFAR10, CIFAR100, ImageWoof, ImageCat, ImageFruit, ImageNette, Imag
 ## Acknowledgement
 This project is mainly developed based on the following works:
 - [RDED](https://github.com/LINs-lab/RDED)
+- [GIFT](https://github.com/LINs-lab/GIFT)
 
 ## Citation
 If you find this work helpful, please cite:
