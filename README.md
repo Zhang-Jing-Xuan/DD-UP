@@ -32,5 +32,6 @@ If you find this work helpful, please cite:
   volume={},
   number={},
   pages={1-15},
-  doi={10.1109/TIP.2025.3624626}}
+  doi={10.1109/TIP.2025.3624626}
+}
 ```
